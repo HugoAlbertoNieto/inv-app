@@ -1,0 +1,40 @@
+PURCHASE ORDER PAGE
+
+Add:
+ok 1)Delivery Due Date
+ok 2)Unit
+ok 3)Price
+   4)Subtotal
+   5)Tax (VAT @ 20%)
+   6)Total
+ok 7) Add a 'notes' section within the page
+   8)Create a PDF button to create a PDF version of the PO so users can also save the PDF on a local drive. Use 'New PO Template' attached for the data to self      populate. Also, on the following pages of the PO add our terms and conditions 'Granemore Group Conditions of Purchase for Good 14.10.2020'.
+   9)Auto-generate a new PO number
+ok 10)Date in UK format: DD-MM-YYYY
+   11)Product database to be added so when populating the PO description it can be easily looked up (Unless this will be captured within the 'Items' pages?
+ok 12) Telephone Number to be the same each time: 03450179600
+ok 13)Site contact add: Phil Odling
+ok 14)Add a contact number to each site contact: 
+     Neil Henderson - 07956067115
+     Mark Lee - 07850336642
+     Sean McGuigan - 07703184911
+     Jake Lee - 07704568202
+     Phil Odling - 07983163579
+
+BOOK IN / OUT PAGES
+
+   1)Add PO number that has been assigned (This will then act as a PO sign off so the invoice can be automatically approved)
+   2)Book In/Out number to be auto generated
+   3)Date: UK format DD-MM-YYYY
+   4)Add Value (To only be seen by Admin users)
+
+WASTAGE
+
+   1) Wastage number to be auto-assigned
+   2) Date in UK Format: DD-MM-YYYY
+   3) Add 'Reason for Wastage' box
+   4) Add Value (split into Unit/Unit Price/Total) - to be seen by admin only
+
+ITEMS - BOTH PAGES
+
+   1) See 'Bulk Product Uploader' for the information required to mirror in the Inventory system
